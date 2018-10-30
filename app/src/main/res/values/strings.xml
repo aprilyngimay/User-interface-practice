@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">User Interface</string>
+    <string name="button_button">BUTTON</string>
+    <string name="button_checkbox">CHECKBOX</string>
+    <string name="button_picker">PICKER</string>
+    <string name="button_radiobutton">RADIO BUTTON</string>
+    <string name="button_textfield">TEXTFIELD</string>
+    <string name="tv_fname">Firstname</string>
+    <string name="et_fname">Enter your firstname</string>
+    <string name="tv_lname">Lastname</string>
+    <string name="et_lname">Enter your lastname</string>
+    <string name="click_me">Click Me Please!</string>
+    <string name="cb_crazy">Crazy!</string>
+    <string name="cb_cute">Cute</string>
+    <string name="cb_angry">Angry!!</string>
+    <string name="cb_surprise">Surprise</string>
+    <string name="cb_sweet">Sweet</string>
+    <string name="cb_happy">Happy</string>
+    <string name="rb_female">Female</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_bisexual">Bisexual</string>
+    <string name="rb_gay">Gay</string>
+    <string name="rb_lesbian">Lesbian</string>
+    <string name="rb_queer">Queer</string>
+    <string name="et_picker">Date</string>
+</resources>
